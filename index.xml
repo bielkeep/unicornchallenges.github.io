@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mytitle</title>
-    <link>https://unicornchallenges1.0.github.io/</link>
+    <link>https://bielkeep.github.io/unicornchallenges.github.io/</link>
     <description>Recent content on mytitle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
     <lastBuildDate>Tue, 01 Sep 2020 20:59:28 -0300</lastBuildDate>
     
-	<atom:link href="https://unicornchallenges1.0.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bielkeep.github.io/unicornchallenges.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>https://unicornchallenges1.0.github.io/page/contact/</link>
+      <link>https://bielkeep.github.io/unicornchallenges.github.io/page/contact/</link>
       <pubDate>Tue, 01 Sep 2020 20:59:28 -0300</pubDate>
       
-      <guid>https://unicornchallenges1.0.github.io/page/contact/</guid>
+      <guid>https://bielkeep.github.io/unicornchallenges.github.io/page/contact/</guid>
       <description>Contato Gabriel Ribeiro | gabriel@arvis.tech</description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>https://unicornchallenges1.0.github.io/2020/09/01/welcome/</link>
+      <link>https://bielkeep.github.io/unicornchallenges.github.io/2020/09/01/welcome/</link>
       <pubDate>Tue, 01 Sep 2020 18:13:32 -0300</pubDate>
       
-      <guid>https://unicornchallenges1.0.github.io/2020/09/01/welcome/</guid>
+      <guid>https://bielkeep.github.io/unicornchallenges.github.io/2020/09/01/welcome/</guid>
       <description>Bem vindo a ARVISTECH Projetamos para falhar!
 A falha tem custo e tempo, assim como a oportunidade. Por isso trabalhamos com a certeza de que &amp;ldquo;quando&amp;rdquo; falhar, estaremos prontos para atuar!</description>
     </item>
