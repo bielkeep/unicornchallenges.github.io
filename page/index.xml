@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on mytitle</title>
+    <link>https://unicornchallenges1.0.github.io/page/</link>
+    <description>Recent content in Pages on mytitle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 20:59:28 -0300</lastBuildDate>
+    
+	<atom:link href="https://unicornchallenges1.0.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://unicornchallenges1.0.github.io/page/contact/</link>
+      <pubDate>Tue, 01 Sep 2020 20:59:28 -0300</pubDate>
+      
+      <guid>https://unicornchallenges1.0.github.io/page/contact/</guid>
+      <description>Contato Gabriel Ribeiro | gabriel@arvis.tech</description>
+    </item>
+    
+  </channel>
+</rss>

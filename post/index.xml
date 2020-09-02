@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on mytitle</title>
+    <link>https://unicornchallenges1.0.github.io/post/</link>
+    <description>Recent content in Posts on mytitle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 18:13:32 -0300</lastBuildDate>
+    
+	<atom:link href="https://unicornchallenges1.0.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://unicornchallenges1.0.github.io/2020/09/01/welcome/</link>
+      <pubDate>Tue, 01 Sep 2020 18:13:32 -0300</pubDate>
+      
+      <guid>https://unicornchallenges1.0.github.io/2020/09/01/welcome/</guid>
+      <description>Bem vindo a ARVISTECH Projetamos para falhar!
+A falha tem custo e tempo, assim como a oportunidade. Por isso trabalhamos com a certeza de que &amp;ldquo;quando&amp;rdquo; falhar, estaremos prontos para atuar!</description>
+    </item>
+    
+  </channel>
+</rss>
